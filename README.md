@@ -7,7 +7,7 @@
  🚀 Features
  
  PDF Parsing: Upload your existing resume (PDF format) to extract the text content.
- 
+
  Job Description Input: Paste a job description or use the experimental URL fetching feature.
 
  Gemini AI Optimization: Rewrites your resume content to highlight relevant skills and incorporate
@@ -37,8 +37,9 @@
  Go to the 
     Google AI Studio API Key page :https://gemini.google.com/app/76310abae3d6e511
 
- Google Gemini
+
  Click "Create API key" and copy the generated key (it starts with AIza... ).
+ 
  2. Enter the Key: Paste your copied API key into the "Google Gemini API Key" field within the
  application. The key is only stored in your browser session and is used directly for API calls.
  
