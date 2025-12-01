@@ -7,14 +7,21 @@
  🚀 Features
  
  PDF Parsing: Upload your existing resume (PDF format) to extract the text content.
+ 
  Job Description Input: Paste a job description or use the experimental URL fetching feature.
+
  Gemini AI Optimization: Rewrites your resume content to highlight relevant skills and incorporate
  keywords from the job description for better ATS (Applicant Tracking System) compatibility.
+
  Formatted Output: Generate and download the result as a self-contained .html file, or copy the
  formatted text directly to your clipboard.
+
  Model Selection: Choose different Gemini models based on your preference and API key access.
+
  Error Handling: Includes exponential backoff for API calls to handle transient rate-limiting issues.
+
  ⚙ How to Run Locally
+ 
  Since this is a single HTML file, getting it running is very easy!
  1. Clone the Repository:
  git clone [https://github.com/gauravarun/Resume-Tailor-AI.git]
