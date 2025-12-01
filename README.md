@@ -1,8 +1,11 @@
 ✨ AI Resume Tailor
+ 
  A simple, single-file web application that uses the Google Gemini API to tailor a candidate's existing
  resume (uploaded as a PDF) to a specific job description. The output is provided as formatted HTML,
  making it easy to copy and paste into Word or Google Docs without losing bolding or list structures.
+ 
  🚀 Features
+ 
  PDF Parsing: Upload your existing resume (PDF format) to extract the text content.
  Job Description Input: Paste a job description or use the experimental URL fetching feature.
  Gemini AI Optimization: Rewrites your resume content to highlight relevant skills and incorporate
@@ -21,7 +24,9 @@
 # or
  start index.html
  3. Start Using: The application will load immediately.
+ 
  🔑 API Key Setup (Required)
+ 
  This application requires access to the Google Gemini API to function.
  1. Get an API Key: Obtain a key from Google AI Studio:
  Go to the 
@@ -31,7 +36,9 @@
  Click "Create API key" and copy the generated key (it starts with AIza... ).
  2. Enter the Key: Paste your copied API key into the "Google Gemini API Key" field within the
  application. The key is only stored in your browser session and is used directly for API calls.
+ 
  📝 Usage
+ 
  1. Enter API Key: Paste your Gemini API Key.
  2. Input Job Description: Paste the text of the job you are applying for into the Job Description box.
  3. Input Resume: Click the upload box in the Your Resume section and select your PDF resume. The
