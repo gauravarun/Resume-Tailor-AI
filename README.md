@@ -21,8 +21,6 @@
  2. Open the File: Simply open the index.html file in your favorite web browser (e.g., Chrome,
  Firefox).
  open index.html 
-# or
- start index.html
  3. Start Using: The application will load immediately.
  
  🔑 API Key Setup (Required)
